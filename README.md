@@ -55,8 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabh-gupta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-> **Note:** Replace `[Your-GitHub-Username]` in the image URLs with your actual username. You can also change `theme=tokyonight` to a different theme (like `dark`, `radical`, `onedark`, etc.) to match your preference!
-
 ---
 
 ## 🔗 Connect With Me
