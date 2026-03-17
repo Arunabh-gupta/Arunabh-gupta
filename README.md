@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning **Golang and distributed systems**.
 - 💬 Ask me about **React, Node.js, Postgres, C++, Go**.
+- ✍️ I write about Golang, distributed systems, and backend engineering → [https://dev.to/arundevs]
 - ⚡ Fun fact: **I like playing video games, consume a lot of superhero and cinematic universe content including comic books !!!**.
 - 📫 How to reach me: **guptaarunabh2024@gmail.com**
 
